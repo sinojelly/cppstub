@@ -1,0 +1,1 @@
+set stub for C/C++ function/method.
